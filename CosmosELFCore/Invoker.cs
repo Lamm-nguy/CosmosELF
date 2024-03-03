@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Cosmos.Core.Memory.Old;
+using Cosmos.Core.Memory;
 using IL2CPU.API.Attribs;
 using XSharp.Assembler;
 
@@ -11,7 +11,7 @@ namespace CosmosELFCore
     {
         public static uint Offset;
         public static uint eax, ebx, ecx, edx, esi, edi, esp, ebp;
-        public static uint* Stack = (uint*)Heap.MemAlloc(1024);
+        public static uint* Stack = (uint*)Heap.Alloc(1024);
 
         public static void Dump()
         {

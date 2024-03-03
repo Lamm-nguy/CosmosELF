@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Cosmos.Core.Memory.Old;
+using Cosmos.Core.Memory;
 
 namespace CosmosELFCore
 {
@@ -62,7 +62,7 @@ namespace CosmosELFCore
             }
 
             //alocate final size
-            _finalExecutible = (byte*) Heap.MemAlloc(totalSize);
+            _finalExecutible = (byte*) Heap.Alloc(totalSize);
 
             var stream = new MemoryStream(_finalExecutible);
             var writer = new BinaryWriter(stream);

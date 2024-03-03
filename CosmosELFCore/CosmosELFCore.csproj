@@ -1,12 +1,35 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <IsPublishable>True</IsPublishable>
   </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <IsPublishable>True</IsPublishable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cosmos.Build" Version="0.1.0-localbuild20240218070550">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Cosmos.Common" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.Core" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.Debug.Kernel" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.Debug.Kernel.Plugs.Asm" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.HAL2" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.Plugs" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.System2" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Cosmos.System2_Plugs" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="IL2CPU.API" Version="0.1.0-localbuild20240218070557" />
+    <PackageReference Include="Spruce" Version="10.0.0" />
+    <PackageReference Include="XSharp" Version="10.0.0" />
+  </ItemGroup>
 
   <ItemGroup>
     <Reference Include="Cosmos.Core">
