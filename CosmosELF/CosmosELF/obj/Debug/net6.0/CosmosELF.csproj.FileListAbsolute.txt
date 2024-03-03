@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\bin\Debug\net6.0\CosmosELF.deps.json
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\bin\Debug\net6.0\CosmosELF.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\bin\Debug\net6.0\CosmosELF.pdb
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\bin\Debug\net6.0\CosmosELFCore.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\bin\Debug\net6.0\CosmosELFCore.pdb
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.csproj.Up2Date
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\refint\CosmosELF.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\CosmosELF.pdb
+C:\Users\Admin\source\repos\CosmosELF\CosmosELF\obj\Debug\net6.0\ref\CosmosELF.dll

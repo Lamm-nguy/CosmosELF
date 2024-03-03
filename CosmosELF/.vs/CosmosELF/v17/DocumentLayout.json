@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|c:\\users\\admin\\source\\repos\\cosmoself\\cosmoself\\cosmoself.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|solutionrelative:cosmoself\\cosmoself.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoself\\cosmoself.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|solutionrelative:cosmoself\\cosmoself.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoself\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|solutionrelative:cosmoself\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoselfcore\\unmanagedexecutible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|solutionrelative:cosmoselfcore\\unmanagedexecutible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoselfcore\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|solutionrelative:cosmoselfcore\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoselfcore\\cosmoselfcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|solutionrelative:cosmoselfcore\\cosmoselfcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoselfcore\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|solutionrelative:cosmoselfcore\\kernel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoselfcore\\cosmoselfcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8257FE8-94C0-4C5E-AFF7-57A4117CDFFE}|CosmosELFCore\\CosmosELFCore.csproj|solutionrelative:cosmoselfcore\\cosmoselfcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|C:\\Users\\Admin\\source\\repos\\CosmosELF\\cosmoself\\testfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029D330A-57BB-4A35-8162-3ECD3E290F62}|CosmosELF\\CosmosELF.csproj|solutionrelative:cosmoself\\testfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CosmosELF",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\CosmosELF.csproj",
+              "RelativeDocumentMoniker": "CosmosELF\\CosmosELF.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\CosmosELF.csproj",
+              "RelativeToolTip": "CosmosELF\\CosmosELF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T12:58:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnmanagedExecutible.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\UnmanagedExecutible.cs",
+              "RelativeDocumentMoniker": "CosmosELFCore\\UnmanagedExecutible.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\UnmanagedExecutible.cs",
+              "RelativeToolTip": "CosmosELFCore\\UnmanagedExecutible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:56:23.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosmosELF.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\CosmosELF.csproj",
+              "RelativeDocumentMoniker": "CosmosELF\\CosmosELF.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\CosmosELF.csproj",
+              "RelativeToolTip": "CosmosELF\\CosmosELF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T12:47:41.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\Invoker.cs",
+              "RelativeDocumentMoniker": "CosmosELFCore\\Invoker.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\Invoker.cs",
+              "RelativeToolTip": "CosmosELFCore\\Invoker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:41:43.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CosmosELFCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\CosmosELFCore.csproj",
+              "RelativeDocumentMoniker": "CosmosELFCore\\CosmosELFCore.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\CosmosELFCore.csproj",
+              "RelativeToolTip": "CosmosELFCore\\CosmosELFCore.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T11:23:48.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\Kernel.cs",
+              "RelativeDocumentMoniker": "CosmosELFCore\\Kernel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\Kernel.cs",
+              "RelativeToolTip": "CosmosELFCore\\Kernel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:22:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kernel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\Kernel.cs",
+              "RelativeDocumentMoniker": "CosmosELF\\Kernel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\Kernel.cs",
+              "RelativeToolTip": "CosmosELF\\Kernel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:31:32.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CosmosELFCore",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\CosmosELFCore.csproj",
+              "RelativeDocumentMoniker": "CosmosELFCore\\CosmosELFCore.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\CosmosELFCore.csproj",
+              "RelativeToolTip": "CosmosELFCore\\CosmosELFCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T12:45:41.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestFile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\TestFile.cs",
+              "RelativeDocumentMoniker": "CosmosELF\\TestFile.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELF\\TestFile.cs",
+              "RelativeToolTip": "CosmosELF\\TestFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:38:01.262Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

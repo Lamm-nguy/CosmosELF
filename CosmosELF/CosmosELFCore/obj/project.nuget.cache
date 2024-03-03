@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lm7Hs/uQzSsLxX6EILSOLs+eZKHie0BNyEWWuTkQ078sq7ogA7QIDs5+B08BpxOa/WY1XQZiVzBOaxI6r64IfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CosmosELF\\CosmosELFCore\\CosmosELFCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240218070550\\cosmos.build.0.1.0-localbuild20240218070550.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240218070557\\cosmos.common.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240218070557\\cosmos.core.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240218070557\\cosmos.debug.kernel.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.debug.kernel.plugs.asm\\0.1.0-localbuild20240218070557\\cosmos.debug.kernel.plugs.asm.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240218070557\\cosmos.hal2.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240218070557\\cosmos.plugs.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240218070557\\cosmos.system2.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\cosmos.system2_plugs\\0.1.0-localbuild20240218070557\\cosmos.system2_plugs.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240218070557\\il2cpu.api.0.1.0-localbuild20240218070557.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\spruce\\10.0.0\\spruce.10.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xsharp\\10.0.0\\xsharp.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

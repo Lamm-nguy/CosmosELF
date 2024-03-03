@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\bin\Debug\net6.0\CosmosELFCore.deps.json
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\bin\Debug\net6.0\CosmosELFCore.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\bin\Debug\net6.0\CosmosELFCore.pdb
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\refint\CosmosELFCore.dll
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\CosmosELFCore.pdb
+C:\Users\Admin\source\repos\CosmosELF\CosmosELFCore\obj\Debug\net6.0\ref\CosmosELFCore.dll
